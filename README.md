@@ -9,10 +9,5 @@ I am a sophomore at IIIT Delhi, studying computer science. <br>I am passionate a
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dhruv3sood&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv3sood&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=Dhruv3sood&icon=2&color=7)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
