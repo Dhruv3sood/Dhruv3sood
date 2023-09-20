@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a sophomore at IIIT Delhi, studying computer science. <br>I am passionate about performing mathematically based technical configurations and designs.<br>I am currently working on two exciting projects that challenge me to learn and improve my skills.<br>Feel free to reach out at dhruv21387@iiitd.ac.in
+I am a Junior at IIIT Delhi, studying computer science. <br>I am passionate about performing mathematically based technical configurations and designs.<br><br>Feel free to reach out at dhruv21387@iiitd.ac.in
 
 
 # 💻 Tech Stack:
