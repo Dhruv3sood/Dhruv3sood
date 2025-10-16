@@ -1,13 +1,9 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hello+World!;I'm+Dhruv+Sood;ML+Engineer+%26+Backend+Developer;Building+Intelligent+Systems" alt="Typing SVG" />
-
   <br/>
-  
   <img src="https://img.shields.io/badge/B.Tech%20CSE%20-%20IIIT%20Delhi-blue?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Education" />
-  <img src="https://img.shields.io/badge/New%20Delhi%2C%20India-orange?style=for-the-badge&logo=location-dot&logoColor=white" alt="Location" />
-  
+  <img src="https://img.shields.io/badge/New%20Delhi%2C%20India-orange?style=for-the-badge&logo=location-dot&logoColor=white" alt="Location" />  
   <br/><br/>
-  
   <a href="mailto:dhruvsood6@gmail.com">
     <img src="https://img.shields.io/badge/dhruvsood6@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -31,9 +27,9 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=Dhruv%20Sood&fontSize=40&fontAlignY=40&desc=ML%20Engineer%20%26%20Backend%20Developer&descAlignY=65&descAlign=50" />
-</div>
+</div> -->
 
 ## **TL;DR**
 <div align="center">
@@ -41,131 +37,8 @@
   **I build ML-infused backends and retrieval systems**  
   *RAG • Multi‑agent orchestration • Streaming APIs • Data/ETL plumbing*  
   *Clean design • Measurable impact • Production reliability*
-
-> *This profile README is distilled from my resume. Sections below expand for details.*
   
 </div>
-
----
-
-## **Key Highlights**
-
-<table>
-<tr>
-<td width="50%">
-
-**AI/ML Systems**
-- Production‑grade **RAG & Multi‑Agent** chat backends
-- SSE streaming, SQL‑to‑API conversion
-- OpenSearch/Qdrant retrieval systems
-
-</td>
-<td width="50%">
-
-**Backend Engineering**
-- **Data/ML Platforms**: Airflow ETL, model evaluation
-- Multimodal search, fairness evaluation
-- FastAPI, REST, event‑driven components
-
-</td>
-</tr>
-</table>
-
----
-
-## **Professional Experience**
-
-<details>
-<summary><b>Software Engineer — Probo</b> <img src="https://img.shields.io/badge/Jan%202025--Present-green?style=flat-square" /></summary>
-
-<div align="left">
-
-**Key Contributions:**
-- Designed multi‑agent RAG chatbot backends with SSE and entity extraction
-- Built retrieval infra (OpenSearch) and API‑level SQL conversion
-- Shipped news/content workflows; automated generation + SEO
-- Orchestrated Airflow ETL for high‑volume financial data
-
-**Tech Stack:** FastAPI, OpenSearch, SSE, Airflow, SQL, Python
-
-</div>
-</details>
-
-<details>
-<summary><b>AI Research Intern — AI Institute of South Carolina</b> <img src="https://img.shields.io/badge/Feb%202025--Present-blue?style=flat-square" /> <img src="https://img.shields.io/badge/Remote-orange?style=flat-square" /></summary>
-
-<div align="left">
-
-**Research Focus:**
-- Research in **LLM fairness** for Indian socio‑cultural contexts (caste/religion)
-- Dataset curation for constitutional alignment; benchmarking LLMs
-- Ethical AI and bias evaluation methodologies
-
-**Tech Stack:** PyTorch, Hugging Face, Fairness Metrics, Python
-
-</div>
-</details>
-
-<details>
-<summary><b>ML Engineering Intern — NSE India</b> <img src="https://img.shields.io/badge/May%202024--Jul%202024-purple?style=flat-square" /></summary>
-
-<div align="left">
-
-**Key Achievements:**
-- Deployed RAG (Qdrant + LlamaIndex) for regulatory documents
-- Hybrid search ingestion pipelines; retrieval quality improvements
-- Document processing and knowledge extraction systems
-
-**Tech Stack:** Qdrant, LlamaIndex, Python, Vector Search, NLP
-
-</div>
-</details>
-
----
-
-## **Featured Projects**
-
-<table>
-<tr>
-<td width="50%">
-
-### **Amazon E‑commerce ML Toolset**
-**Multimodal Product Search & Recommendation Engine**
-
-**Features:**
-- Multimodal product search
-- Collaborative filtering
-- Review summarization
-- Recommendation algorithms
-
-**Tech:** Python, ML, NLP, Recommendation Systems
-
-<a href="https://github.com/Dhruv3sood/Amazon_Toolset">
-  <img src="https://img.shields.io/badge/View%20Repo-black?style=for-the-badge&logo=github&logoColor=white" alt="Amazon Toolset" />
-</a>
-
-</td>
-<td width="50%">
-
-### **Pocket Tanks (LibGDX/Java)**
-**Event‑driven OOP Architecture Game**
-
-**Features:**
-- Event‑driven OOP architecture
-- Responsive gameplay mechanics
-- Clean code architecture
-- Interactive UI/UX
-
-**Tech:** Java, LibGDX, Game Development
-
-<a href="https://github.com/Dhruv3sood/Pocket-Tanks">
-  <img src="https://img.shields.io/badge/View%20Repo-black?style=for-the-badge&logo=github&logoColor=white" alt="Pocket Tanks" />
-</a>
-
-</td>
-</tr>
-</table>
-
 
 
 ---
@@ -210,29 +83,6 @@
 
 </div>
 
----
-
-## 🎓 Education & Achievements
-**IIIT–Delhi** — B.Tech CSE (Finance/Economics specialization), Nov 2021 – May 2025  
-Coursework: DSA, ML, NLP, IR, DBMS, Algorithms, AI Governance  
-Highlights: competitive programming (CodeChef/Codeforces), state/national academic awards, hackathons, volunteering
-
----
-
-## **GitHub Analytics**
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Dhruv3sood&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv3sood&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" height="180" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruv3sood&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="180" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruv3sood&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF" />
-
-</div>
-
----
 
 ## **Let's Connect!**
 
