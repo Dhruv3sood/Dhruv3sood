@@ -18,30 +18,13 @@
 
 ---
 
-
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner_light.png">
-  <img alt="Dhruv Sood banner" src="assets/banner_light.png" width="100%">
-</picture> -->
+## Checkout my website to know more about me -- https://dhruv3sood.github.io/Portfolio/
 
 ---
 
 <!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=Dhruv%20Sood&fontSize=40&fontAlignY=40&desc=ML%20Engineer%20%26%20Backend%20Developer&descAlignY=65&descAlign=50" />
 </div> -->
-
-## **TL;DR**
-<div align="center">
-  
-  **I build ML-infused backends and retrieval systems**  
-  *RAG • Multi‑agent orchestration • Streaming APIs • Data/ETL plumbing*  
-  *Clean design • Measurable impact • Production reliability*
-  
-</div>
-
-
----
 
 ## **Tech Stack**
 
@@ -128,18 +111,7 @@
 
 <div align="center">
   
-  ### **Currently Learning**
-  <img src="https://img.shields.io/badge/Advanced%20LLM%20Architectures-FF6B6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MLOps%20Best%20Practices-4ECDC4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cloud%20Native%20Solutions-45B7D1?style=for-the-badge" />
-
-  <br/><br/>
-
-  <img src="https://komarev.com/ghpvc/?username=Dhruv3sood&style=for-the-badge&color=blue" alt="Profile Views" />
-  
-  <br/><br/>
-  
-  **Thanks for visiting! Star my repos if you found something interesting!**
+! Star my repos if you found something interesting!**
   
 </div>
 
